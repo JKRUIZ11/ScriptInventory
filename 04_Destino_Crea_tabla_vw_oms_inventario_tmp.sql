@@ -1,5 +1,5 @@
 -- Create table
-create table tbl_inv_inventario_on_tmp
+create table tbl_inv_inventario_on
 (
   org_lvl_child        NUMBER,
   org_lvl_number       NUMBER,
